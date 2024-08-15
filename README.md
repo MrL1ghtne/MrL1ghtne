@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marcin
+- This is my second account to maintain merge request workflow :D
+- [Main account](https://github.com/MrD4rkne)
